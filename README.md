@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<useraddmario>](https://circleci.com/gh/useraddmario/MLDockerKubernetesPipeline.svg?style=shield)](https://github.com/useraddmario)
 
 ## Project Overview
 
