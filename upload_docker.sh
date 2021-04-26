@@ -3,7 +3,7 @@
 
 DOCKERID=useraddmario
 DOCKERTAG=predict
-IMAGEID=d904b38a0431
+IMAGEID=c978f1ae03d8
 
 # Assumes that an image is built via `run_docker.sh`
 
