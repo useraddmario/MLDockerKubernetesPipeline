@@ -1,9 +1,0 @@
-{
-  "prediction": [
-    20.35373177134412
-  ]
-}
-
-Pod Name:   predictkube-5cffd67558-8pm2b
-Pod Status: Running
-Forwarding from [::1]:8000 -> 80
